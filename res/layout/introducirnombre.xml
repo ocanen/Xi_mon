@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content">
+<Button android:id="@+id/Button01" android:layout_height="wrap_content" android:layout_width="wrap_content" android:text="Iniciar Juego" android:layout_x="90dip" android:layout_y="300dip"></Button>
+
+
+
+
+
+<EditText android:layout_height="wrap_content" android:id="@+id/EditText01" android:layout_width="wrap_content" android:layout_x="40dip" android:width="200dip" android:text="jugador 1" android:layout_y="120dip"></EditText>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView01" android:layout_width="wrap_content" android:text="Introduzca su nombre:" android:layout_x="70dip" android:layout_y="80dip"></TextView>
+</AbsoluteLayout>

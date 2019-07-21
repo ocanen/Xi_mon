@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content">
+
+<Button android:id="@+id/Button02" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_x="250dip" android:layout_y="300dip" android:text="Salir"></Button>
+<TextView android:layout_height="wrap_content" android:layout_y="13dip" android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_x="103dip" android:text="despedida"></TextView>
+</AbsoluteLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content">
+<Button android:id="@+id/Button01" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_y="340dip" android:text="Dictar records" android:layout_x="30dip"></Button>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView01" android:text="@+id/TextView01" android:layout_width="wrap_content" android:layout_x="92dip" android:layout_y="15dip"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_x="92dip" android:layout_y="65dip" android:text="Vacio"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView03" android:layout_width="wrap_content" android:layout_y="125dip" android:layout_x="92dip" android:text="Vacio"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView04" android:layout_width="wrap_content" android:layout_x="92dip" android:layout_y="185dip" android:text="Vacio"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView05" android:layout_width="wrap_content" android:layout_x="92dip" android:layout_y="245dip" android:text="Vacio"></TextView>
+<TextView android:layout_height="wrap_content" android:id="@+id/TextView06" android:layout_width="wrap_content" android:layout_y="305dip" android:layout_x="92dip" android:text="Vacio"></TextView>
+<Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/Button02" android:layout_y="340dip" android:text="Menú" android:layout_x="190dip"></Button>
+</AbsoluteLayout>

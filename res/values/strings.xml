@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Cambio de Actividades</string>
+    <string name="app_name">Xi_mon</string>
+<string name="texto_boton">Presioname</string>
+</resources>
